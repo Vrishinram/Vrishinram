@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vrishin-ram-k)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vrishinram)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black)](https://portfolio-vrishinrams-projects.vercel.app)
+[![Cinematic 3D](https://img.shields.io/badge/🎬_Cinematic_3D-Portfolio-FF4500?style=for-the-badge&logo=webgl&logoColor=white)](https://github.com/Vrishinram/cinematic-portfolio)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrishinram4646@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/+91_6380434366-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916380434366)
 
@@ -258,6 +259,19 @@ Interactive personal portfolio showcasing full cybersecurity projects, technical
     <img src="https://img.shields.io/badge/Live_Site-Visit_Portfolio-00bfff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
   </a>
   <a href="https://github.com/Vrishinram/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
+---
+
+### 🎬 Cinematic 3D WebGL Portfolio
+![WebGL](https://img.shields.io/badge/WebGL-Custom_Shaders-FF4500?style=for-the-badge&logo=webgl&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES_Modules-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![3D Canvas](https://img.shields.io/badge/3D_Canvas-Atmospheric-00FF88?style=for-the-badge)
+
+Immersive zero-framework 3D WebGL portfolio featuring a real-time alpha video compositor, canvas distressed typography, an interactive Chrono time machine, and a depth-sorted 3D project gallery.
+
+<p align="left">
+  <a href="https://github.com/Vrishinram/cinematic-portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
   </a>
 </p>
