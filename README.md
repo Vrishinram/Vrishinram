@@ -34,7 +34,7 @@ class VrishinRamK:
     def __init__(self):
         self.name = "Vrishin Ram K"
         self.role = "Cybersecurity Analyst | AI Security & Red Teaming | SOC Operations"
-        self.education = "B.Tech CSE (Cybersecurity) | Dhanalakshmi Srinivasan University, Trichy | 4th Year | CGPA: 7.1"
+        self.education = "B.Tech CSE (Cybersecurity) | Dhanalakshmi Srinivasan University, Trichy | Aug 2023 – Present (4th Year) | CGPA: 7.1"
         self.location = "Tenkasi, Tamil Nadu, India"
         self.languages = ["Tamil", "English", "Malayalam"]
         self.internships = "5 Hands-on Industry Internships across SOC, AI Security, Blue Teaming & IR"
