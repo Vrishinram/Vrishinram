@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF88,100:00bfff&height=200&section=header&text=VRISHIN%20RAM%20K&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%E2%80%A2%20AI%20Agent%20Builder%20%E2%80%A2%20SOC%20Analyst&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF88,100:00bfff&height=200&section=header&text=VRISHIN%20RAM%20K&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Analyst%20%E2%80%A2%20AI%20Security%20%26%20Red%20Teaming%20%E2%80%A2%20SOC%20Operations&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%94%90+Building+Cybersicker+%E2%80%94+Autonomous+SOC+AI;%F0%9F%8F%86+1st+Place+%40+IIT+Madras+Ethical+Hacking+Hackathon;%F0%9F%93%84+Published+Researcher+%7C+IJNRD+Impact+Factor+8.76;%F0%9F%9B%A1%EF%B8%8F+Blue+Teaming+%7C+Digital+Forensics+%7C+Incident+Response;%F0%9F%94%AC+ISO%2FIEC+27001%3A2022+Lead+Auditor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=780&height=45&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Analyst+%7C+SOC+Analysis+%7C+Threat+Detection;%F0%9F%A4%96+AI+Security+%7C+LLM+Red+Teaming+%7C+Agentic+AI;%F0%9F%94%90+5+Industry+Internships+%7C+10%2B+Security+Tools;%F0%9F%8F%86+1st+Place+%40+IIT+Madras+Ethical+Hacking+Hackathon;%F0%9F%93%84+First-Author+IoT+Security+Paper+%7C+IJNRD+IF+8.76;%F0%9F%94%AC+ISO%2FIEC+27001%3A2022+Lead+Auditor+%7C+CLLMSE+%7C+COFPS)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vrishin-ram-k)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cybersicker)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/cybersicker)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vrishinram)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black)](https://portfolio-vrishinrams-projects.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrishinram4646@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/+91_6380434366-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916380434366)
 
@@ -32,23 +32,31 @@
 class VrishinRamK:
     def __init__(self):
         self.name = "Vrishin Ram K"
-        self.role = "Cybersecurity Analyst, AI Agent Builder & SOC Analyst"
+        self.role = "Cybersecurity Analyst | AI Security & Red Teaming | SOC Operations"
         self.education = "B.Tech CSE (Cybersecurity) | Dhanalakshmi Srinivasan University, Trichy | 4th Year | CGPA: 7.1"
         self.location = "Tenkasi, Tamil Nadu, India"
         self.languages = ["Tamil", "English", "Malayalam"]
-        self.building = "Cybersicker — Autonomous Agentic SOC AI"
+        self.internships = "5 Hands-on Industry Internships across SOC, AI Security, Blue Teaming & IR"
+        self.certifications = "10+ Certifications (ISO/IEC 27001 LA, CLLMSE, CCEP, COFPS)"
+        self.research = "First-Author IoT Intrusion Detection Paper (IJNRD IF 8.76, 98.31% accuracy)"
+        self.building = "Cybersicker — Dual-Core Autonomous SOC AI Platform"
+        self.leadership = [
+            "Primary Organizer — DEF CON Group Tiruchirappalli (DC0431 / DCG91431)",
+            "Google Campus Ambassador — Dhanalakshmi Srinivasan University",
+        ]
         self.focus = [
-            "Blue Teaming automation",
-            "Digital Forensics and Incident Response",
-            "Agentic AI security tooling",
-            "Quantum Computing foundations",
+            "SOC Analysis, Alert Triage & Incident Response",
+            "LLM Security, Red Teaming & Jailbreak Mitigation",
+            "Agentic AI Security Architectures & Reasoning Pipelines",
+            "Network Traffic Analysis & Packet Forensics (Wireshark, Splunk)",
+            "Security Automation & Attack Simulation (Python, Bash)",
         ]
 
     def current_mission(self):
         return [
-            "Scale Cybersicker for real-time SOC operations",
-            "Build secure, practical AI agents for defenders",
-            "Contribute to blue-team and incident-response workflows",
+            "Scale Cybersicker for real-time SOC operations mapped to MITRE ATT&CK & NIST CSF 2.0",
+            "Deploy secure, resilient AI agent pipelines against adversarial injection and drift",
+            "Lead DEF CON Trichy DC0431 community workshops and CTF competitions",
         ]
 
     def fun_fact(self):
@@ -61,13 +69,13 @@ class VrishinRamK:
 
 <div align="center">
 
-| 🔵 Blue Teaming & SOC | 🤖 Agentic AI Security | 🔍 Digital Forensics |
+| 🔵 Blue Teaming & SOC | 🤖 AI Security & Red Teaming | 🔍 Digital Forensics & IR |
 |---|---|---|
-| Splunk · Wireshark · Alert Triage | LangChain · Gemini · RAG · ChromaDB | Autopsy · Memory & Disk Analysis |
+| Splunk SIEM · Wireshark · Alert Triage | LLM Security · Red Teaming · Jailbreak Mitigation | Autopsy · Packet Analysis · Evidence Preservation |
 
-| 🌐 Ethical Hacking | 📋 GRC & Compliance | ⚙️ ICS/SCADA |
+| 🌐 Ethical Hacking & Recon | 📋 GRC, Frameworks & Standards | ⚙️ Network Defense & ICS/SCADA |
 |---|---|---|
-| Pen Testing · CTFs · Nmap · Recon | ISO/IEC 27001:2022 · Policy Drafting | Industrial Control System Security |
+| Nmap · Pen Testing · CTFs · Attack Simulation | MITRE ATT&CK · NIST CSF 2.0 · ISO 27001 · OWASP Top 10 | Layer 2/3 Defense · DAI · 802.1X · SCADA Security |
 
 </div>
 
@@ -75,35 +83,51 @@ class VrishinRamK:
 
 ## 💼 Internship Experience
 
-<details>
-<summary><b>🔐 Cybersecurity Intern — VirtualWorks Lab (by Emogi)</b> <code>Remote | May–Jun 2026</code></summary>
+<details open>
+<summary><b>🛡️ Cybersecurity Intern — DG Interns Hub</b> <code>Remote | Aug 2026 – Present</code></summary>
 <br/>
 
-- Built <b>BruteShield</b> for brute-force mitigation with progressive lockout and alert logging
-- Developed a <b>file obfuscation utility</b> for data exfiltration prevention
-- Built a <b>port scanner</b> for open, closed, and filtered port enumeration
-- Designed an <b>ML phishing classifier</b> using Random Forest + NLP/TF-IDF for BEC, spam, and malware detection
-- Implemented a <b>real-time password analyzer</b> with Shannon entropy and k-anonymity HIBP breach validation
+- Analysed network traffic with <b>Wireshark deep packet capture</b>, dissecting DNS resolution, TCP handshakes, and TLS 1.3 sessions across <b>1,400+ packets</b>.
+- Performed reconnaissance and service enumeration via <b>Nmap</b>, fingerprinting operating systems and vulnerable legacy services on live endpoints.
+- Modeled <b>Layer 2/3 attack vectors</b> (ARP poisoning, TCP SYN flood DoS) and engineered defensive controls including Dynamic ARP Inspection (DAI) and 802.1X.
+
+</details>
+
+<details open>
+<summary><b>🤖 AI Fluency Intern — FlyRank Corp. (FlyRank.ai)</b> <code>Remote | Jul 2026 – Sep 2026</code></summary>
+<br/>
+
+- Developed and evaluated <b>agentic AI workflows</b>, LLM prompt architectures, and autonomous reasoning pipelines.
+- Designed benchmark suites and safety evaluations testing generative AI systems against <b>hallucination, prompt injection, and output drift</b>.
 
 </details>
 
 <details>
-<summary><b>🔐 Cybersecurity Intern — Thiranex</b> <code>Hybrid | Apr–May 2026</code></summary>
+<summary><b>🔐 Cybersecurity Intern — Virtual Works Lab (by Emogi)</b> <code>Remote | May 2026 – Jun 2026</code></summary>
 <br/>
 
-- Developed custom threat detection tools and automated cyberattack simulation scripts
-- Deployed a proof-of-concept log analysis security agent for automated IR correlation
-- Documented project architectures and deployment procedures for security framework integration
+- Built <b>BruteShield</b>, a login-attempt control system enforcing progressive account lockout and real-time suspicious-IP flagging to block credential-stuffing attacks.
+- Hardened file security with an obfuscation/access-control utility using <b>layered XOR encryption</b> and role-based permissions across 3+ asset categories.
+- Shipped a <b>multi-threaded port scanner</b> covering a full Class-C subnet in under 30 seconds, cutting manual recon time by 70%.
+- Trained an <b>NLP email-threat classifier</b> (Random Forest + TF-IDF) on 10,000+ samples across 5 attack categories, achieving <b>92%+ precision</b>.
 
 </details>
 
 <details>
-<summary><b>🔐 Cybersecurity Analyst Intern — Vetri Technologies</b> <code>Onsite | Dec 2025–Jan 2026</code></summary>
+<summary><b>⚡ Cybersecurity Intern — Thiranex</b> <code>Hybrid | Apr 2026 – May 2026</code></summary>
 <br/>
 
-- Monitored network traffic and analyzed system logs with <b>Wireshark</b> and <b>Splunk</b>
-- Triaged daily security alerts, filtered false positives, and escalated genuine threats
-- Investigated malicious network activity and documented attack vectors for improved detection rules
+- Authored 3+ Python security automation scripts replicating real-world attacks (credential spraying, privilege escalation, port exploitation), cutting manual detection effort by 40%.
+- Prototyped a log-analysis security agent correlating events across 5+ log sources to reduce mean-time-to-detect for critical anomalies.
+
+</details>
+
+<details>
+<summary><b>🔍 Cybersecurity Analyst Intern — Vetri Technologies</b> <code>Onsite | Dec 2025 – Jan 2026</code></summary>
+<br/>
+
+- Reviewed <b>100+ MB of daily network traffic</b> and system logs via Wireshark and Splunk SIEM, identifying 3+ anomalies per week for escalation.
+- Triaged <b>50+ security alerts per shift</b>, achieving over 60% false-positive suppression, and reverse-engineered attacker techniques into 5+ new SIEM detection rules.
 
 </details>
 
@@ -274,17 +298,27 @@ Interactive personal portfolio showcasing full cybersecurity projects, technical
 
 <div align="center">
 
-![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001%3A2022-Lead_Auditor-00FF88?style=for-the-badge&logo=shield&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001%3A2022-Lead_Auditor_(Exemplar_Global)-00FF88?style=for-the-badge&logo=shield&logoColor=black)
+![CLLMSE](https://img.shields.io/badge/CLLMSE-Certified_LLM_Security_Expert-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
+![CCEP](https://img.shields.io/badge/CCEP-Certified_Cybersecurity_Educator_Professional-blue?style=for-the-badge&logo=codementor&logoColor=white)
 ![COFPS](https://img.shields.io/badge/COFPS-Certified_Online_Fraud_Prevention_Specialist-red?style=for-the-badge&logo=shield&logoColor=white)
-![SOC](https://img.shields.io/badge/SOC-Fundamentals-blue?style=for-the-badge&logo=security&logoColor=white)
+![Offensive Agent AI](https://img.shields.io/badge/Offensive_Agent_AI-Course-orange?style=for-the-badge&logo=robot&logoColor=white)
+![Anthropic AI Fluency](https://img.shields.io/badge/Anthropic_Claude-AI_Fluency_Series-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![SOC Fundamentals](https://img.shields.io/badge/SOC-Fundamentals-00bfff?style=for-the-badge&logo=security&logoColor=white)
 ![Digital Forensics](https://img.shields.io/badge/Digital-Forensics-purple?style=for-the-badge&logo=search&logoColor=white)
-![ICS SCADA](https://img.shields.io/badge/ICS%2FSCADA-Security-orange?style=for-the-badge&logo=settings&logoColor=white)
-![Cybersecurity Fundamentals](https://img.shields.io/badge/Cybersecurity-Fundamentals-00bfff?style=for-the-badge&logo=shield&logoColor=white)
-![Quantum](https://img.shields.io/badge/Quantum_Computing-Fundamentals-blueviolet?style=for-the-badge&logo=atom&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Basics-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Zoho](https://img.shields.io/badge/Zoho_Creator-Low--Code-E42527?style=for-the-badge&logo=zoho&logoColor=white)
+![ICS SCADA](https://img.shields.io/badge/ICS%2FSCADA-Security_Basics-EAB308?style=for-the-badge&logo=settings&logoColor=black)
 
 </div>
+
+<br/>
+
+- 📜 **ISO/IEC 27001:2022 Lead Auditor** — Exemplar Global
+- 🤖 **Certified LLM Security Expert (CLLMSE)** — LLM Red Teaming, Prompt Injection, Safety Benchmarking
+- 👨‍🏫 **Certified Cybersecurity Educator Professional (CCEP)**
+- 🛡️ **Certified Online Fraud Prevention Specialist (COFPS)**
+- 🤖 **Offensive Agent AI Course** — Autonomous Agent Security & Exploitation Vectors
+- 🧠 **Anthropic AI Fluency Series:** Claude 101, Framework & Foundations, Capabilities & Limitations, AI Fluency for Builders (CodePath.org & Anthropic)
+- 🔍 **Blue Team / Forensics:** SOC Fundamentals, Digital Forensics, ICS/SCADA Security Basics
 
 <br/>
 
@@ -298,11 +332,17 @@ Interactive personal portfolio showcasing full cybersecurity projects, technical
 
 ## 🤝 Leadership & Volunteering
 
-🗂️ <b>Event Organizer & Judge — NEXUS '26</b> <i>(National Level Fest, DSU Trichy | Feb 2026)</i>
-> Led planning of a national symposium via the university's Cyber Club and judged Startup Pitch and hackathon events
+🏴‍☠️ <b>Primary Organizer — DEF CON Group Tiruchirappalli (DC0431 / DCG91431)</b> <code>Tiruchirappalli | Aug 2026 – Present</code>
+> Founded and registered the official DEF CON Group in Trichy, organizing community workshops in network security, packet forensics, and CTF competitions.
 
-📢 <b>Lead Coordinator — Cyber Aura '25</b> <i>(DSU Trichy | 2025)</i>
-> Directed a dedicated cybersecurity awareness event focused on hands-on technical learning
+🌐 <b>Google Campus Ambassador — Dhanalakshmi Srinivasan University</b> <code>Trichy | May 2026 – Present</code>
+> Represent Google developer technologies and AI tools across campus, conducting student workshops, developer sessions, and technical guidance.
+
+🗂️ <b>Event Organizer & Lead Judge — NEXUS '26 National Technical Fest</b> <code>Trichy | Feb 2026</code>
+> Directed a 200+ attendee national technical symposium, coordinating 15+ team members across 6 event tracks; grew participation 35% year-over-year. Judged 10+ teams in Startup Pitch and hackathon finals using structured scoring rubrics.
+
+📢 <b>Lead Coordinator — Cyber Aura '25</b> <code>Trichy | 2025</code>
+> Led a 100+ attendee cybersecurity awareness event with 4 CTF challenges and 2 expert sessions, coordinating 3 sub-teams for a zero-incident event.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -310,50 +350,49 @@ Interactive personal portfolio showcasing full cybersecurity projects, technical
 
 <div align="center">
 
-### 🖥️ Languages
+### 🛡️ Cybersecurity & Blue Teaming
+![SOC Analysis](https://img.shields.io/badge/SOC_Analysis-Alert_Triage-00FF88?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-DFIR-blue?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intel-IOCs-purple?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk_SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-PCAP-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-111111?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Recon-214A7B?style=for-the-badge)
+
+### 🤖 AI Security & LLM Red Teaming
+![LLM Security](https://img.shields.io/badge/LLM_Security-Red_Teaming-FF4500?style=for-the-badge)
+![Prompt Injection](https://img.shields.io/badge/Prompt_Injection-Jailbreak_Mitigation-E11D48?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Architectures-6366F1?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Gemini 2.5](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-ChromaDB-FF6B35?style=for-the-badge)
+
+### 📋 Frameworks & Standards
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-Enterprise_%26_ICS-red?style=for-the-badge)
+![NIST CSF 2.0](https://img.shields.io/badge/NIST_CSF_2.0-Framework-blue?style=for-the-badge)
+![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001%3A2022-Lead_Auditor-00FF88?style=for-the-badge)
+![OWASP Top 10](https://img.shields.io/badge/OWASP-Top_10-orange?style=for-the-badge)
+![OWASP LLM](https://img.shields.io/badge/OWASP-Top_10_for_LLMs-yellow?style=for-the-badge)
+
+### 🖥️ Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+### 🌐 Web, ML & Backend
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-
-### 🌐 Web / Backend
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-
-### 🔐 Security Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214A7B?style=for-the-badge&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-111111?style=for-the-badge&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=tor-project&logoColor=white)
-
-### 🗄️ Databases / Deployment
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 </div>
 
