@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF88,100:00bfff&height=200&section=header&text=VRISHIN%20RAM%20K&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Analyst%20%E2%80%A2%20AI%20Security%20%26%20Red%20Teaming%20%E2%80%A2%20SOC%20Operations&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/Vrishinram/Vrishinram/main/header.svg" width="100%"/>
 
 </div>
 
