@@ -411,7 +411,7 @@ Immersive zero-framework 3D WebGL portfolio featuring a real-time alpha video co
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vrishinram&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vrishinram&theme=chartreuse-dark&hide_border=true&layout=compact"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrishinram&theme=chartreuse-dark&hide_border=true&layout=compact"/>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=Vrishinram&theme=chartreuse-dark&hide_border=true"/>
 
