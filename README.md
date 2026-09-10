@@ -42,8 +42,8 @@ class VrishinRamK:
         self.research = "First-Author IoT Intrusion Detection Paper (IJNRD IF 8.76, 98.31% accuracy)"
         self.building = "Cybersicker — Dual-Core Autonomous SOC AI Platform"
         self.leadership = [
-            "Primary Organizer — DEF CON Group Tiruchirappalli (DC0431 / DCG91431)",
-            "Google Campus Ambassador — Dhanalakshmi Srinivasan University",
+            "Event Organizer & Lead Judge — NEXUS '26 National Technical Fest",
+            "Lead Coordinator — Cyber Aura '25",
         ]
         self.focus = [
             "SOC Analysis, Alert Triage & Incident Response",
@@ -57,7 +57,6 @@ class VrishinRamK:
         return [
             "Scale Cybersicker for real-time SOC operations mapped to MITRE ATT&CK & NIST CSF 2.0",
             "Deploy secure, resilient AI agent pipelines against adversarial injection and drift",
-            "Lead DEF CON Trichy DC0431 community workshops and CTF competitions",
         ]
 
     def fun_fact(self):
@@ -346,11 +345,6 @@ Immersive zero-framework 3D WebGL portfolio featuring a real-time alpha video co
 
 ## 🤝 Leadership & Volunteering
 
-🏴‍☠️ <b>Primary Organizer — DEF CON Group Tiruchirappalli (DC0431 / DCG91431)</b> <code>Tiruchirappalli | Aug 2026 – Present</code>
-> Founded and registered the official DEF CON Group in Trichy, organizing community workshops in network security, packet forensics, and CTF competitions.
-
-🌐 <b>Google Campus Ambassador — Dhanalakshmi Srinivasan University</b> <code>Trichy | May 2026 – Present</code>
-> Represent Google developer technologies and AI tools across campus, conducting student workshops, developer sessions, and technical guidance.
 
 🗂️ <b>Event Organizer & Lead Judge — NEXUS '26 National Technical Fest</b> <code>Trichy | Feb 2026</code>
 > Directed a 200+ attendee national technical symposium, coordinating 15+ team members across 6 event tracks; grew participation 35% year-over-year. Judged 10+ teams in Startup Pitch and hackathon finals using structured scoring rubrics.
