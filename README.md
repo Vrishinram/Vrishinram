@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vrishin-ram-k)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vrishinram)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black)](https://portfolio-vrishinrams-projects.vercel.app)
-[![Cinematic 3D](https://img.shields.io/badge/🎬_Cinematic_3D-Portfolio-FF4500?style=for-the-badge&logo=webgl&logoColor=white)](https://github.com/Vrishinram/cinematic-portfolio)
+[![Cinematic 3D](https://img.shields.io/badge/Cinematic_3D-Portfolio-FF4500?style=for-the-badge&logo=webgl&logoColor=white)](https://github.com/Vrishinram/cinematic-portfolio)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrishinram4646@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/+91_6380434366-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916380434366)
 
