@@ -19,7 +19,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vrishinram&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://hits.sh/github.com/Vrishinram/hits.svg?style=for-the-badge&label=PROFILE+VIEWS&color=00ff88&labelColor=555555)
 
 </div>
 
@@ -461,6 +461,6 @@ Immersive zero-framework 3D WebGL portfolio featuring a real-time alpha video co
 
 🗣️ **Languages:** Tamil · English · Malayalam &nbsp;|&nbsp; 📍 Tenkasi, Tamil Nadu, India
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vrishinram&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://hits.sh/github.com/Vrishinram/hits.svg?style=for-the-badge&label=PROFILE+VIEWS&color=00ff88&labelColor=555555)
 
 </div>
