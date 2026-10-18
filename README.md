@@ -19,7 +19,7 @@
 
 <br/>
 
-[![Profile Views](https://api.visitorbadge.io/api/visitors?path=Vrishinram&label=PROFILE%20VIEWS&labelColor=555555&countColor=00ff88&style=for-the-badge)](https://github.com/Vrishinram)
+[![Profile Views](https://hits.sh/github.com/Vrishinram.svg?style=for-the-badge&label=PROFILE+VIEWS&extraCount=130&color=00ff88&labelColor=555555)](https://github.com/Vrishinram)
 
 </div>
 
