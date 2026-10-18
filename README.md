@@ -19,7 +19,7 @@
 
 <br/>
 
-[![Profile Views](https://hits.sh/github.com/Vrishinram.svg?style=for-the-badge&label=PROFILE+VIEWS&extraCount=130&color=00ff88&labelColor=555555)](https://github.com/Vrishinram)
+![Profile Views](https://komarev.com/ghpvc/?username=Vrishinram&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
