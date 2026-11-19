@@ -138,28 +138,28 @@ class VrishinRamK:
 <div align="center">
 
 <a href="https://github.com/Vrishinram/PromptShield">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vrishinram&repo=PromptShield&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vrishinram&repo=PromptShield&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
 </a>
 <a href="https://github.com/Vrishinram/Cybersicker">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vrishinram&repo=Cybersicker&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vrishinram&repo=Cybersicker&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
 </a>
 
 <br/>
 
 <a href="https://github.com/Vrishinram/ARGUS">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vrishinram&repo=ARGUS&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vrishinram&repo=ARGUS&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
 </a>
 <a href="https://github.com/Vrishinram/GuardRift">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vrishinram&repo=GuardRift&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vrishinram&repo=GuardRift&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
 </a>
 
 <br/>
 
 <a href="https://github.com/Vrishinram/IGLOO">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vrishinram&repo=IGLOO&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vrishinram&repo=IGLOO&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
 </a>
 <a href="https://github.com/Vrishinram/portfolio">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Vrishinram&repo=portfolio&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vrishinram&repo=portfolio&theme=chartreuse-dark&hide_border=true&description_lines_count=3" />
 </a>
 
 </div>
@@ -410,8 +410,8 @@ Immersive zero-framework 3D WebGL portfolio featuring a real-time alpha video co
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vrishinram&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vrishinram&theme=chartreuse-dark&hide_border=true&layout=compact"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vrishinram&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrishinram&theme=chartreuse-dark&hide_border=true&layout=compact"/>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=Vrishinram&theme=chartreuse-dark&hide_border=true"/>
 
