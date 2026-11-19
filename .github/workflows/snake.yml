@@ -14,6 +14,7 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -22,9 +23,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Vrishinram
+          github_token: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#00FF88
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00FF88
 
       - name: Publish generated snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
